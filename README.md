@@ -1,11 +1,11 @@
 # How to program DFO with cdceprog
-This is a guide for programming DFOs for the Mega Drive, Playstation and Saturn with a Raspberry Pi. This corrects the sync frequence with a DFO (Dual Frequence Oscillator) to match 60Hz on PAL consoles. This is my collection of files to make the process much easier do. Credit goes to ikorb. 
+This is a guide for programming DFOs for the Mega Drive, Playstation and Saturn with a Raspberry Pi. This corrects the sync frequence with a DFO (Dual Frequence Oscillator) to match 60Hz on PAL consoles when using region modded PAL/NTSC consoles. This is my collection of files to make the process much easier do. Credit goes to ikorb. 
 
 # Connections
 
 To connect the DFO to the Raspberry Pi, check the nice overview of the
 GPIO connector [here](http://pi.gadgetoid.com/pinout). The programming
-pins on the side of the DFO must be connected as follows:
+pins on the DFO must be connected as follows:
 
 * DFO `SDA` to RasPi pin 3
 * DFO `SCL` to RasPi pin 5
@@ -23,7 +23,9 @@ You should see a lot of dashes but in all those dashes there should be a number.
 Let's start by downloading the Python script (this does the programming) and the HEX-files for MD, PSX or SAT.
 Here we go:
 
-       git clone 
+       cd Downloads
+       git clone https://github.com/fix-ON/DFO_cdceprog_HEXfiles.git
+       cd 
 
 
 
