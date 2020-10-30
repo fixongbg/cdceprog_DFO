@@ -22,7 +22,7 @@ You should see a lot of dashes but in all those dashes there should be a number 
 # Programming
 
 Let's start by downloading the Python script (this does the programming) and the HEX-files for MD, PSX or SAT (timing files).
-<br>Now type the following:
+Type the following:
 
        cd Downloads
        
