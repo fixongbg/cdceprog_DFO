@@ -11,13 +11,12 @@ pins on the side of the DFO must be connected as follows:
 * DFO `3.3V` or `5V` to RasPi pin 1 or 2 (depends on the DFO board).
 
 When connection is done, check if you can communicate with the clock generator chip on the DFO using:
-   sudo i2cdetect -y 1
+
+       sudo i2cdetect -y 1
 
 You should see a lot of dashes but in all those dashes there should be a number. If so, your good to go. If not, check your connections.
 
-## Usage ##
 
-    cdceprog.py settings.hex
 
 
 
