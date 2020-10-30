@@ -25,7 +25,7 @@ Let's start by downloading the Python script (this does the programming) and the
 <br>Now type the following:
 
        cd Downloads
-
+<br>
        git clone https://github.com/fix-ON/cdceprog_DFO.git
 
        cd cdceprog_DFO
