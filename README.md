@@ -21,7 +21,7 @@ You should see a lot of dashes but in all those dashes there should be a number.
 # Programming
 
 Let's start by downloading the Python script (this does the programming) and the HEX-files for MD, PSX or SAT.
-<br>Open up your favorite SSH software like cmder, Putty or Terminal and type:
+<br>Open up your favorite SSH software like cmder, Putty or Terminal, connect to the Rpi and type:
 
        cd Downloads
        git clone https://github.com/fix-ON/cdceprog_DFO.git
