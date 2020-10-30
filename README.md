@@ -1,4 +1,4 @@
-# How to program DFO with cdceprog HEX-files
+# How to program DFO with cdceprog
 This is a guide for programming DFOs for the Mega Drive, Playstation and Saturn with a Raspberry Pi. This corrects the sync frequence with a DFO (Dual Frequence Oscillator) to match 60Hz on PAL consoles. This is my collection of files to make the process much easier do. Credit goes to ikorb. 
 
 # Connections
