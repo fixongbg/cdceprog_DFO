@@ -26,7 +26,9 @@ Let's start by downloading the Python script (this does the programming) and the
 
        cd Downloads
 <br>
+
        git clone https://github.com/fix-ON/cdceprog_DFO.git
+<br>
 
        cd cdceprog_DFO
        
