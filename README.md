@@ -12,7 +12,7 @@ pins on the DFO must be connected as follows:
 * DFO `GND` to RasPi pin 6
 * DFO `3.3V` or `5V` to RasPi pin 1 or 2 (depends on the DFO board).
 
-When connection is done, open up your SSH software of choice and check if you can communicate with the clock generator chip on the DFO using:
+When connection is done, open up your SSH software of choice, connecto to the Rpi and check if you can communicate with the clock generator chip on the DFO using:
 
        sudo i2cdetect -y 1
 
