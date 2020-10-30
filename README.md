@@ -16,7 +16,7 @@ When connection is done, open up your SSH software of choice, connect to the Rpi
 
        sudo i2cdetect -y 1
 
-You should see a lot of dashes but in all those dashes there should be a number saying 65 (or any number). [Like this](https://lh3.googleusercontent.com/a_tGdSa3VDv70SZUX8pBk3JYfTwxvivDkqDmNHTE_eoHsUaEfkLwutUSrhtNkMlRlNb3_yKA2tN6Wyzj8NT0abgotpBu9qsyMpTpNp2FjEySThF0hWop8WraXeFAZ0QJiEp1OZL8utQ=w2400).
+You should see a lot of dashes but in all those dashes there should be a number saying 65 (or any number). [Like this](https://lh3.googleusercontent.com/_Gxg1M49yRi2BTcX0c3Z45i9h1tF_bkZa5rPwzWThPDWSAVoe7ZAxWv1xEoaSQSiG40iK5rT7gLBfwl75UDkaSGNPgL3dOsNAjHFuS8S7v5-eZkJk62OTY54CyYILQQZ1Pm8r546riM=w2400).
 <br>If so, your good to go. If not, check your connections.
 
 # Programming
