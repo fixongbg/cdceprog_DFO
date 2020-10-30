@@ -25,9 +25,11 @@ Let's start by downloading the Python script (this does the programming) and the
 <br>Now type the following:
 
        cd Downloads
-       <br>
+<br>
+
        git clone https://github.com/fix-ON/cdceprog_DFO.git
-       <br>
+<br>
+
        cd cdceprog_DFO
        
 Now, if your programming a DFO for the Mega Drive or Playstation, use MD_PSX.HEX.
