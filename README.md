@@ -14,7 +14,9 @@ When connection is done, check if you can communicate with the clock generator c
 
        sudo i2cdetect -y 1
 
-You should see a lot of dashes but in all those dashes there should be a number. If so, your good to go. If not, check your connections.
+You should see a lot of dashes but in all those dashes there should be a number. [Like this](https://lh3.googleusercontent.com/a_tGdSa3VDv70SZUX8pBk3JYfTwxvivDkqDmNHTE_eoHsUaEfkLwutUSrhtNkMlRlNb3_yKA2tN6Wyzj8NT0abgotpBu9qsyMpTpNp2FjEySThF0hWop8WraXeFAZ0QJiEp1OZL8utQ=w2400). If so, your good to go. If not, check your connections.
+
+
 
 
 
