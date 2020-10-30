@@ -32,7 +32,7 @@ Now, if your programming a DFO for the Mega Drive or Playstation, use MD_PSX.HEX
 If your programming for the Saturn, use SAT.HEX.
 In this guide we're using the MD_PSX.HEX.
 
-       sudo ./cdceprog.py MD_PSX.HEX 
+       sudo python cdceprog.py MD_PSX.HEX 
        
 You should see a text that says: 
 
