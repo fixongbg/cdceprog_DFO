@@ -44,7 +44,7 @@ Your DFO is now programmed.
 # Installation
        
 Installation for Playstation. [Check this](https://www.consolesunleashed.com/guides/sony-playstation-dual-frequency-oscillator-install-guide/).
-Installation for Mega Drive. [Check this](https://www.consolesunleashed.com/guides/sony-playstation-dual-frequency-oscillator-install-guide/).
+<br>Installation for Mega Drive. [Check this](https://www.consolesunleashed.com/guides/sony-playstation-dual-frequency-oscillator-install-guide/).
 
 [My own corrected installation](https://lh3.googleusercontent.com/YM1fPKKGZmAsZ23TLTULbut0lwdu7vYrq3Oe_t-7z9aZYnW7kQdPS30FKhKIY_Z4Xth14he5_4DSMkzZdRePHbivP_WVnAIu9CCfXsZncvz31CIxwi5SFzW7G0Sq5I7l-KcyscL1HO0=w2400) pic of the Playtation SCPH-100X PU-8 version. 
 
