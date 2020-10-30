@@ -12,7 +12,7 @@ pins on the DFO must be connected as follows:
 * DFO `GND` to RasPi pin 6
 * DFO `3.3V` or `5V` to RasPi pin 1 or 2 (depends on the DFO board).
 
-When connection is done, check if you can communicate with the clock generator chip on the DFO using:
+When connection is done, open up your SSH software of choice and check if you can communicate with the clock generator chip on the DFO using:
 
        sudo i2cdetect -y 1
 
@@ -21,7 +21,7 @@ You should see a lot of dashes but in all those dashes there should be a number.
 # Programming
 
 Let's start by downloading the Python script (this does the programming) and the HEX-files for MD, PSX or SAT.
-<br>Open up your favorite SSH software like cmder, Putty or Terminal, connect to the Rpi and type:
+<br>Now type the following:
 
        cd Downloads
        git clone https://github.com/fix-ON/cdceprog_DFO.git
