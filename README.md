@@ -18,16 +18,38 @@ When connection is done, check if you can communicate with the clock generator c
 
 You should see a lot of dashes but in all those dashes there should be a number. [Like this](https://lh3.googleusercontent.com/a_tGdSa3VDv70SZUX8pBk3JYfTwxvivDkqDmNHTE_eoHsUaEfkLwutUSrhtNkMlRlNb3_yKA2tN6Wyzj8NT0abgotpBu9qsyMpTpNp2FjEySThF0hWop8WraXeFAZ0QJiEp1OZL8utQ=w2400). If so, your good to go. If not, check your connections.
 
-# Programming.
+# Programming
 
 Let's start by downloading the Python script (this does the programming) and the HEX-files for MD, PSX or SAT.
 Here we go:
 
        cd Downloads
-       git clone https://github.com/fix-ON/DFO_cdceprog_HEXfiles.git
-       cd 
+       git clone https://github.com/fix-ON/cdceprog_DFO.git
+       cd cdceprog_DFO
+       
+Now, if your programming a DFO for the Mega Drive or Playstation, use MD_PSX.HEX.
+If your programming for the Saturn, use SAT.HEX.
+In this guide we're using the MD_PSX.HEX.
 
+       sudo ./cdceprog.py MD_PSX.HEX 
+       
+You should see a text that says: 
 
+       Found data for a CDCE 913 chip.
+       Waiting until EEPROM write cycle finishes...
+       
+Congratulations! 
+Your DFO is now programmed.
+
+# Installation
+       
+Installation for Playstation. [Check this](https://www.consolesunleashed.com/guides/sony-playstation-dual-frequency-oscillator-install-guide/).
+Installation for Mega Drive. [Check this](https://www.consolesunleashed.com/guides/sony-playstation-dual-frequency-oscillator-install-guide/).
+
+[My own corrected installation](https://lh3.googleusercontent.com/YM1fPKKGZmAsZ23TLTULbut0lwdu7vYrq3Oe_t-7z9aZYnW7kQdPS30FKhKIY_Z4Xth14he5_4DSMkzZdRePHbivP_WVnAIu9CCfXsZncvz31CIxwi5SFzW7G0Sq5I7l-KcyscL1HO0=w2400) pic of the Playtation SCPH-100X PU-8 version. 
+
+Picture of [my installation](https://lh3.googleusercontent.com/YM1fPKKGZmAsZ23TLTULbut0lwdu7vYrq3Oe_t-7z9aZYnW7kQdPS30FKhKIY_Z4Xth14he5_4DSMkzZdRePHbivP_WVnAIu9CCfXsZncvz31CIxwi5SFzW7G0Sq5I7l-KcyscL1HO0=w2400) (previous mods not made by me).
+ 
 
 
 
