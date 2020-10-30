@@ -30,9 +30,9 @@ Let's start by downloading the Python script (this does the programming) and the
        
        cd cdceprog_DFO
        
-Now, if your programming a DFO for the Mega Drive or Playstation, use MD_PSX.HEX.
-If your programming for the Saturn, use SAT.HEX.
-<br>In this guide we're using the MD_PSX.HEX, so type:
+Now, if your programming a DFO for the Mega Drive or Playstation, use `MD_PSX.HEX`.
+If your programming for the Saturn, use `SAT.HEX`.
+<br>In this guide we're using the `MD_PSX.HEX`, so type:
 
        sudo python cdceprog.py MD_PSX.HEX 
        
