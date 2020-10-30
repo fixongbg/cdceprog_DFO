@@ -21,7 +21,7 @@ You should see a lot of dashes but in all those dashes there should be a number 
 
 # Programming
 
-Let's start by downloading the Python script (this does the programming) and the HEX-files for MD, PSX or SAT (timing files).
+Let's start by downloading the Python script (this does the programming) and the HEX-files for Mega Drive, Playstation or Saturn (timing files).
 <br>Type the following:
 
        cd Downloads
