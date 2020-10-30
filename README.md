@@ -48,7 +48,7 @@ Installation for Playstation. [Check this](https://www.consolesunleashed.com/gui
 
 [My own corrected installation](https://lh3.googleusercontent.com/YM1fPKKGZmAsZ23TLTULbut0lwdu7vYrq3Oe_t-7z9aZYnW7kQdPS30FKhKIY_Z4Xth14he5_4DSMkzZdRePHbivP_WVnAIu9CCfXsZncvz31CIxwi5SFzW7G0Sq5I7l-KcyscL1HO0=w2400) pic of the Playtation SCPH-100X PU-8 version. 
 
-Picture of [my installation](https://lh3.googleusercontent.com/YM1fPKKGZmAsZ23TLTULbut0lwdu7vYrq3Oe_t-7z9aZYnW7kQdPS30FKhKIY_Z4Xth14he5_4DSMkzZdRePHbivP_WVnAIu9CCfXsZncvz31CIxwi5SFzW7G0Sq5I7l-KcyscL1HO0=w2400) (previous mods not made by me).
+Picture of [my installation](https://lh3.googleusercontent.com/yA1KRLiw6e9q29PxjYsE2boe5n0g3t3T99dDg1JlJhc2YcsBoSy-kkWRHj08fb8A3P_q4zZzKag11orBf0PaYURxHIdjlMMwspfZJojBVSPcbiEr0oOo8DOR_08zUR4Pe34DS7nPWgM=w2400) (previous mods not made by me).
  
 
 
