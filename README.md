@@ -33,7 +33,7 @@ Type the following:
 
        cd Downloads
        git clone https://github.com/fix-ON/cdceprog_DFO.git
-       cd cdceprog_DFO.git
+       cd cdceprog_DFO
 
 
        
