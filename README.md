@@ -54,7 +54,7 @@ To connect the DFO to the Raspberry Pi, the programming pins on the DFO must be 
 
 ![pinout](images/pinout.png) 
 
-![example](images/DFO_Rpi.JPG)
+![example](images/DFO_Rpi.jpg)
 
 When the connection is done, check if you can communicate again with the clock generator chip on the DFO using:
 
